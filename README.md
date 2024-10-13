@@ -27,8 +27,11 @@ For the PLS-SEM analysis to model and test the relationships between latent vari
 **How to Use**
 
 Data Scraping: You can scrape data using the 'Web_Scraping_Skytrax_Reviews.ipynb' file, which collects airline reviews from the Skytrax website airlinequality.com.
+
 Preprocessing: The preprocessed data is stored in a .csv file for further analysis. Run the preprocessing script 'Data_Preprocessing_Cleaning.ipynb' to clean the data.
+
 Sentiment Analysis: Execute the 'NLP_Airline_Reviews_Text_Mining.ipynb' file to run the sentiment analysis and generate results.
+
 Visualizations: To generate graphs and visualizations, run the 'Visualization_of_Ratings.ipynb' file.
 
 **Authors:**
