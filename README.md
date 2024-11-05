@@ -16,9 +16,13 @@ Understanding customer sentiment is crucial for the airline industry, where cust
 
 *Python -* 
 BeautifulSoup for web scraping
+
 pandas for data manipulation
+
 NLTK for text preprocessing
+
 VADER for sentiment analysis
+
 matplotlib, seaborn, and plotnine for data visualization
 
 *SmartPLS-*
@@ -36,7 +40,7 @@ Visualizations: To generate graphs and visualizations, run the 'Visualization_of
 
 **Authors:**
 
-Kanak Joshi : LinkedIn - http://www.linkedin.com/in/kanak-joshi-85838a2b7
+Kanak Joshi : LinkedIn - https://www.linkedin.com/in/kanak-joshi11/ 
              Portfolio - https://kanak-joshi11.github.io/
 
 Surbi Mantri : LinkedIn - https://www.linkedin.com/in/surbi-mantri/ 
